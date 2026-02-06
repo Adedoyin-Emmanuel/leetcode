@@ -1,4 +1,4 @@
-# Last updated: 2/6/2026, 6:42:42 AM
+# Last updated: 2/6/2026, 6:44:32 AM
 1class Solution:
 2    def constructTransformedArray(self, nums: List[int]) -> List[int]:
 3        n = len(nums)
