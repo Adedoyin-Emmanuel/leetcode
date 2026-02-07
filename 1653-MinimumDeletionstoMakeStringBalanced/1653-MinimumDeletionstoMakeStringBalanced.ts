@@ -1,4 +1,4 @@
-// Last updated: 2/7/2026, 3:30:44 AM
+// Last updated: 2/7/2026, 4:13:10 AM
 1function minimumDeletions(s: string): number {
 2
 3    /**
@@ -8,28 +8,25 @@
 7        Deletion = total number of B's on the left
 8        + total number of A's on the right
 9     */
-10    let badLeft = 0;
-11    let badRight = 0;
-12    let minNoOfDeletions = Infinity;
+10
+11    let bCounter = 0;
+12    let minDeletionsSoFar = 0;
 13
 14    for (let i = 0; i < s.length; i++) {
-15        if (s[i] !== "b") {
-16            badRight++;
-17        }
-18    }
-19
-20    for (let i = 0; i <= s.length ; i++) {
-21
-22        const cost = badRight + badLeft;
-23
-24        minNoOfDeletions = Math.min(minNoOfDeletions, cost);
+15
+16
+17        if (s[i] === "b") {
+18            bCounter++;
+19        } else {
+20            let costToDeleteA = minDeletionsSoFar + 1;
+21            let costToDeleteB = bCounter;
+22
+23            minDeletionsSoFar = Math.min(costToDeleteA, costToDeleteB);
+24        }
 25
-26        if (s[i] == "a") {
-27            badRight--;
-28        } else {
-29            badLeft++;
-30        }
-31    }
-32
-33    return minNoOfDeletions;
-34};
+26    }
+27
+28    return minDeletionsSoFar;
+29
+30
+31};
