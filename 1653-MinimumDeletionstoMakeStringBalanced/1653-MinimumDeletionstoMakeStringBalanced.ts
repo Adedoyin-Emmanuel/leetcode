@@ -1,4 +1,4 @@
-// Last updated: 2/7/2026, 4:13:54 AM
+// Last updated: 2/7/2026, 4:14:15 AM
 1function minimumDeletions(s: string): number {
 2
 3    /**
@@ -13,20 +13,18 @@
 12    let minDeletionsSoFar = 0;
 13
 14    for (let i = 0; i < s.length; i++) {
-15
-16
-17        if (s[i] === "b") {
-18            bCounter++;
-19        } else {
-20            let costToDeleteA = minDeletionsSoFar + 1;
-21            let costToDeleteB = bCounter;
-22
-23            minDeletionsSoFar = Math.min(costToDeleteA, costToDeleteB);
-24        }
+15        if (s[i] === "b") {
+16            bCounter++;
+17        } else {
+18            let costToDeleteA = minDeletionsSoFar + 1;
+19            let costToDeleteB = bCounter;
+20
+21            minDeletionsSoFar = Math.min(costToDeleteA, costToDeleteB);
+22        }
+23
+24    }
 25
-26    }
+26    return minDeletionsSoFar;
 27
-28    return minDeletionsSoFar;
-29
-30
-31};
+28
+29};
