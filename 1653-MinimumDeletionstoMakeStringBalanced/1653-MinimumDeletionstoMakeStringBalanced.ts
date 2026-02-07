@@ -1,4 +1,4 @@
-// Last updated: 2/7/2026, 3:27:51 AM
+// Last updated: 2/7/2026, 3:30:44 AM
 1function minimumDeletions(s: string): number {
 2
 3    /**
@@ -18,7 +18,7 @@
 17        }
 18    }
 19
-20    for (let i = 0; i < s.length + 1; i++) {
+20    for (let i = 0; i <= s.length ; i++) {
 21
 22        const cost = badRight + badLeft;
 23
