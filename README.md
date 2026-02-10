@@ -37,3 +37,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | Medium | Array | [Code](medium/1895-largest-magic-square/largest-magic-square.ts) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | Array | [Code](easy/1200-minimum-absolute-difference/minimum-absolute-difference.ts) |
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | Divide and Conquer | [Code](medium/1382-balance-a-binary-search-tree/balance-a-binary-search-tree.ts) |
+| 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | Medium | Array | [Code](medium/1390-four-divisors/four-divisors.ts) |
