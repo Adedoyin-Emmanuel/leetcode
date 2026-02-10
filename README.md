@@ -49,3 +49,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | Tree | [Code](easy/0111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.ts) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree | [Code](easy/0110-balanced-binary-tree/balanced-binary-tree.ts) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree | [Code](easy/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.ts) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree | [Code](easy/0100-same-tree/same-tree.ts) |
