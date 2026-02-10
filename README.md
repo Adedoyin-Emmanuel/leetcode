@@ -26,4 +26,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium | Array | [Code](medium/2976-minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.ts) |
 | 2943 | [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | Medium | Array | [Code](medium/2943-maximize-area-of-square-hole-in-grid/maximize-area-of-square-hole-in-grid.ts) |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy | Array | [Code](easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/minimum-difference-between-highest-and-lowest-of-k-scores.ts) |
-| 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | Array | [Code](medium/1975-maximum-matrix-sum/maximum-matrix-sum.py) |
+| 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | Array | [Code](medium/1975-maximum-matrix-sum/maximum-matrix-sum.ts) |
