@@ -36,3 +36,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | Array | [Code](easy/1266-minimum-time-visiting-all-points/minimum-time-visiting-all-points.ts) |
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | Medium | Array | [Code](medium/1895-largest-magic-square/largest-magic-square.ts) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | Array | [Code](easy/1200-minimum-absolute-difference/minimum-absolute-difference.ts) |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Medium | Divide and Conquer | [Code](medium/1382-balance-a-binary-search-tree/balance-a-binary-search-tree.ts) |
