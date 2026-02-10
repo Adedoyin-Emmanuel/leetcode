@@ -29,3 +29,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | Array | [Code](medium/1975-maximum-matrix-sum/maximum-matrix-sum.ts) |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | Array | [Code](medium/1877-minimize-maximum-pair-sum-in-array/minimize-maximum-pair-sum-in-array.ts) |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium | String | [Code](medium/1653-minimum-deletions-to-make-string-balanced/minimum-deletions-to-make-string-balanced.ts) |
+| 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Hard | Array | [Code](hard/1458-max-dot-product-of-two-subsequences/max-dot-product-of-two-subsequences.ts) |
