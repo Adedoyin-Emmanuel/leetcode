@@ -44,3 +44,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | Array | [Code](easy/0744-find-smallest-letter-greater-than-target/find-smallest-letter-greater-than-target.ts) |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium | String | [Code](medium/0712-minimum-ascii-delete-sum-for-two-strings/minimum-ascii-delete-sum-for-two-strings.ts) |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | Tree | [Code](easy/0404-sum-of-left-leaves/sum-of-left-leaves.ts) |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | Stack | [Code](easy/0145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.ts) |
