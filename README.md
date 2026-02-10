@@ -16,3 +16,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3453 | [Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | Medium | Array | [Code](medium/3453-separate-squares-i/separate-squares-i.ts) |
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | Easy | Array | [Code](easy/3379-transformed-array/transformed-array.ts) |
 | 3315 | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | Medium | Array | [Code](medium/3315-construct-the-minimum-bitwise-array-ii/construct-the-minimum-bitwise-array-ii.ts) |
+| 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | Easy | Array | [Code](easy/3314-construct-the-minimum-bitwise-array-i/construct-the-minimum-bitwise-array-i.ts) |
