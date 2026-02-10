@@ -46,3 +46,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | Tree | [Code](easy/0404-sum-of-left-leaves/sum-of-left-leaves.ts) |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | Stack | [Code](easy/0145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.ts) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | Stack | [Code](easy/0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.ts) |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | Tree | [Code](easy/0111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.ts) |
