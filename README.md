@@ -40,3 +40,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | Medium | Array | [Code](medium/1390-four-divisors/four-divisors.ts) |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | Tree | [Code](medium/1161-maximum-level-sum-of-a-binary-tree/maximum-level-sum-of-a-binary-tree.ts) |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | Array | [Code](easy/0961-n-repeated-element-in-size-2n-array/n-repeated-element-in-size-2n-array.py) |
+| 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium | Hash Table | [Code](medium/0865-smallest-subtree-with-all-the-deepest-nodes/smallest-subtree-with-all-the-deepest-nodes.ts) |
