@@ -52,3 +52,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree | [Code](easy/0100-same-tree/same-tree.ts) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Stack | [Code](easy/0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.ts) |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array | [Code](hard/0085-maximal-rectangle/maximal-rectangle.ts) |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | [Code](easy/0066-plus-one/plus-one.ts) |
