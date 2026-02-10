@@ -11,3 +11,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3651 | [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | Hard | Array | [Code](hard/3651-minimum-cost-path-with-teleportations/minimum-cost-path-with-teleportations.py) |
 | 3650 | [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | Medium | Graph Theory | [Code](medium/3650-minimum-cost-path-with-edge-reversals/minimum-cost-path-with-edge-reversals.ts) |
 | 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | Hard | Array | [Code](hard/3454-separate-squares-ii/separate-squares-ii.ts) |
+| 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Easy | Array | [Code](easy/3507-minimum-pair-removal-to-sort-array-i/minimum-pair-removal-to-sort-array-i.ts) |
