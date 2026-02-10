@@ -14,4 +14,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Easy | Array | [Code](easy/3507-minimum-pair-removal-to-sort-array-i/minimum-pair-removal-to-sort-array-i.ts) |
 | 3510 | [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | Hard | Array | [Code](hard/3510-minimum-pair-removal-to-sort-array-ii/minimum-pair-removal-to-sort-array-ii.py) |
 | 3453 | [Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | Medium | Array | [Code](medium/3453-separate-squares-i/separate-squares-i.ts) |
-| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | Easy | Array | [Code](easy/3379-transformed-array/transformed-array.py) |
+| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | Easy | Array | [Code](easy/3379-transformed-array/transformed-array.ts) |
