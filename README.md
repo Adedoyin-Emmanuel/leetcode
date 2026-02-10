@@ -10,3 +10,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | Easy | Array | [Code](easy/3637-trionic-array-i/trionic-array-i.ts) |
 | 3651 | [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | Hard | Array | [Code](hard/3651-minimum-cost-path-with-teleportations/minimum-cost-path-with-teleportations.py) |
 | 3650 | [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | Medium | Graph Theory | [Code](medium/3650-minimum-cost-path-with-edge-reversals/minimum-cost-path-with-edge-reversals.ts) |
+| 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | Hard | Array | [Code](hard/3454-separate-squares-ii/separate-squares-ii.ts) |
