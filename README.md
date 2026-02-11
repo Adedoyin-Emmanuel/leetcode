@@ -54,3 +54,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array | [Code](hard/0085-maximal-rectangle/maximal-rectangle.ts) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | [Code](easy/0066-plus-one/plus-one.ts) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](easy/0001-two-sum/two-sum.cs) |
+| 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | Array | [Code](hard/3721-longest-balanced-subarray-ii/longest-balanced-subarray-ii.py) |
