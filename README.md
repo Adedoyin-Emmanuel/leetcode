@@ -55,4 +55,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | [Code](easy/0066-plus-one/plus-one.ts) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](easy/0001-two-sum/two-sum.cs) |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | Array | [Code](hard/3721-longest-balanced-subarray-ii/longest-balanced-subarray-ii.py) |
-| 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | Hash Table | [Code](medium/3713-longest-balanced-substring-i/longest-balanced-substring-i.ts) |
+| 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | Hash Table | [Code](medium/3713-longest-balanced-substring-i/longest-balanced-substring-i-20260212-210221.ts) |
