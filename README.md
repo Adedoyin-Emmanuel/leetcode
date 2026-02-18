@@ -60,3 +60,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | Dynamic Programming | [Code](medium/0799-champagne-tower/champagne-tower-20260214-225032.ts) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Math | [Code](easy/0067-add-binary/add-binary.ts) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | Backtracking | [Code](easy/0401-binary-watch/binary-watch.ts) |
+| 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | Bit Manipulation | [Code](easy/0693-binary-number-with-alternating-bits/binary-number-with-alternating-bits.py) |
