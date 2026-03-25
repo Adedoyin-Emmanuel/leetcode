@@ -55,7 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | [Code](easy/0066-plus-one/plus-one.ts) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](easy/0001-two-sum/two-sum.cs) |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | Array | [Code](3721-longest-balanced-subarray-ii/longest-balanced-subarray-ii.py) |
-| 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | Hash Table | [Code](3713-longest-balanced-substring-i/longest-balanced-substring-i.ts) |
+| 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | Hash Table | [Code](medium/3713-longest-balanced-substring-i/longest-balanced-substring-i-20260212-210221.ts) |
 | 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | Medium | Hash Table | [Code](3714-longest-balanced-substring-ii/longest-balanced-substring-ii.ts) |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | Dynamic Programming | [Code](medium/0799-champagne-tower/champagne-tower-20260214-225032.ts) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Math | [Code](easy/0067-add-binary/add-binary.ts) |
