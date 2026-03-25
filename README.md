@@ -58,7 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | Hash Table | [Code](medium/3713-longest-balanced-substring-i/longest-balanced-substring-i-20260212-210221.ts) |
 | 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | Medium | Hash Table | [Code](3714-longest-balanced-substring-ii/longest-balanced-substring-ii.ts) |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | Dynamic Programming | [Code](medium/0799-champagne-tower/champagne-tower-20260214-225032.ts) |
-| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Math | [Code](0067-add-binary/add-binary.ts) |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Math | [Code](easy/0067-add-binary/add-binary-20260215-234936.ts) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | Backtracking | [Code](easy/0401-binary-watch/binary-watch-20260217-011622.ts) |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | Bit Manipulation | [Code](easy/0693-binary-number-with-alternating-bits/binary-number-with-alternating-bits-20260218-224122.py) |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy | Two Pointers | [Code](easy/0696-count-binary-substrings/count-binary-substrings-20260219-035039.py) |
