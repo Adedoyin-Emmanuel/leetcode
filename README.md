@@ -56,7 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](easy/0001-two-sum/two-sum.cs) |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | Array | [Code](3721-longest-balanced-subarray-ii/longest-balanced-subarray-ii.py) |
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | Hash Table | [Code](3713-longest-balanced-substring-i/longest-balanced-substring-i.ts) |
-| 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | Medium | Hash Table | [Code](medium/3714-longest-balanced-substring-ii/longest-balanced-substring-ii-20260213-224333.ts) |
+| 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | Medium | Hash Table | [Code](3714-longest-balanced-substring-ii/longest-balanced-substring-ii.ts) |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | Dynamic Programming | [Code](medium/0799-champagne-tower/champagne-tower-20260214-225032.ts) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Math | [Code](easy/0067-add-binary/add-binary.ts) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | Backtracking | [Code](easy/0401-binary-watch/binary-watch.ts) |
@@ -73,7 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Easy | Array | [Code](easy/1582-special-positions-in-a-binary-matrix/special-positions-in-a-binary-matrix.ts) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy | String | [Code](easy/1758-minimum-changes-to-make-alternating-binary-string/minimum-changes-to-make-alternating-binary-string.py) |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy | String | [Code](easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/check-if-binary-string-has-at-most-one-segment-of-ones-20260306-232546.ts) |
-| 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | Array | [Code](medium/1980-find-unique-binary-string/find-unique-binary-string.ts) |
+| 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | Array | [Code](1980-find-unique-binary-string/find-unique-binary-string.ts) |
 | 3129 | [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | Medium | Dynamic Programming | [Code](3129-find-all-possible-stable-binary-arrays-i/find-all-possible-stable-binary-arrays-i.ts) |
 | 3130 | [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | Hard | Dynamic Programming | [Code](3130-find-all-possible-stable-binary-arrays-ii/find-all-possible-stable-binary-arrays-ii.ts) |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | Easy | Bit Manipulation | [Code](easy/1009-complement-of-base-10-integer/complement-of-base-10-integer-20260311-050034.ts) |
