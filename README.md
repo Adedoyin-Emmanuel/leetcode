@@ -48,7 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | Stack | [Code](easy/0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal-20260210-084328.ts) |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | Tree | [Code](easy/0111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree-20260126-092556.ts) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree | [Code](easy/0110-balanced-binary-tree/balanced-binary-tree-20260209-235650.ts) |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree | [Code](0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.ts) |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree | [Code](easy/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree-20260126-085919.ts) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree | [Code](0100-same-tree/same-tree.ts) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Stack | [Code](0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.ts) |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array | [Code](hard/0085-maximal-rectangle/maximal-rectangle.ts) |
