@@ -8,7 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3634 | [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | Medium | Array | [Code](medium/3634-minimum-removals-to-balance-array/minimum-removals-to-balance-array-20260206-235723.ts) |
 | 3640 | [Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) | Hard | Array | [Code](hard/3640-trionic-array-ii/trionic-array-ii-20260205-035213.ts) |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | Easy | Array | [Code](easy/3637-trionic-array-i/trionic-array-i-20260207-164941.ts) |
-| 3651 | [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | Hard | Array | [Code](3651-minimum-cost-path-with-teleportations/minimum-cost-path-with-teleportations.py) |
+| 3651 | [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | Hard | Array | [Code](hard/3651-minimum-cost-path-with-teleportations/minimum-cost-path-with-teleportations-20260128-081747.py) |
 | 3650 | [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | Medium | Graph Theory | [Code](3650-minimum-cost-path-with-edge-reversals/minimum-cost-path-with-edge-reversals.ts) |
 | 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | Hard | Array | [Code](3454-separate-squares-ii/separate-squares-ii.ts) |
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Easy | Array | [Code](3507-minimum-pair-removal-to-sort-array-i/minimum-pair-removal-to-sort-array-i.ts) |
