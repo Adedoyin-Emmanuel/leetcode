@@ -53,7 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Stack | [Code](easy/0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal-20260110-165343.ts) |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array | [Code](hard/0085-maximal-rectangle/maximal-rectangle-20260126-104914.ts) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | [Code](easy/0066-plus-one/plus-one-20260201-080045.ts) |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](easy/0001-two-sum/two-sum-20260210-201937.ts) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](easy/0001-two-sum/two-sum-20260104-155930.py) |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | Array | [Code](3721-longest-balanced-subarray-ii/longest-balanced-subarray-ii.py) |
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | Hash Table | [Code](medium/3713-longest-balanced-substring-i/longest-balanced-substring-i-20260212-210221.ts) |
 | 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | Medium | Hash Table | [Code](3714-longest-balanced-substring-ii/longest-balanced-substring-ii.ts) |
