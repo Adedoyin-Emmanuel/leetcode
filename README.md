@@ -50,7 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree | [Code](easy/0110-balanced-binary-tree/balanced-binary-tree.ts) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree | [Code](0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.ts) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree | [Code](0100-same-tree/same-tree.ts) |
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Stack | [Code](easy/0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.ts) |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Stack | [Code](0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.ts) |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array | [Code](hard/0085-maximal-rectangle/maximal-rectangle.ts) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | [Code](easy/0066-plus-one/plus-one.ts) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](easy/0001-two-sum/two-sum.cs) |
