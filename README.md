@@ -13,7 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | Hard | Array | [Code](3454-separate-squares-ii/separate-squares-ii.ts) |
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | Easy | Array | [Code](3507-minimum-pair-removal-to-sort-array-i/minimum-pair-removal-to-sort-array-i.ts) |
 | 3510 | [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | Hard | Array | [Code](3510-minimum-pair-removal-to-sort-array-ii/minimum-pair-removal-to-sort-array-ii.py) |
-| 3453 | [Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | Medium | Array | [Code](medium/3453-separate-squares-i/separate-squares-i.ts) |
+| 3453 | [Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | Medium | Array | [Code](3453-separate-squares-i/separate-squares-i.ts) |
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | Easy | Array | [Code](easy/3379-transformed-array/transformed-array.ts) |
 | 3315 | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | Medium | Array | [Code](medium/3315-construct-the-minimum-bitwise-array-ii/construct-the-minimum-bitwise-array-ii.ts) |
 | 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | Easy | Array | [Code](easy/3314-construct-the-minimum-bitwise-array-i/construct-the-minimum-bitwise-array-i.ts) |
