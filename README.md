@@ -45,7 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium | String | [Code](0712-minimum-ascii-delete-sum-for-two-strings/minimum-ascii-delete-sum-for-two-strings.ts) |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | Tree | [Code](0404-sum-of-left-leaves/sum-of-left-leaves.ts) |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | Stack | [Code](0145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.ts) |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | Stack | [Code](easy/0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.ts) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | Stack | [Code](0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.ts) |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | Tree | [Code](easy/0111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.ts) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree | [Code](easy/0110-balanced-binary-tree/balanced-binary-tree.ts) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree | [Code](easy/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.ts) |
