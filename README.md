@@ -60,7 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | Dynamic Programming | [Code](medium/0799-champagne-tower/champagne-tower-20260214-225032.ts) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Math | [Code](0067-add-binary/add-binary.ts) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | Backtracking | [Code](0401-binary-watch/binary-watch.ts) |
-| 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | Bit Manipulation | [Code](easy/0693-binary-number-with-alternating-bits/binary-number-with-alternating-bits.py) |
+| 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | Easy | Bit Manipulation | [Code](easy/0693-binary-number-with-alternating-bits/binary-number-with-alternating-bits-20260218-224122.py) |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy | Two Pointers | [Code](easy/0696-count-binary-substrings/count-binary-substrings-20260219-035039.py) |
 | 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Easy | Math | [Code](easy/0762-prime-number-of-set-bits-in-binary-representation/prime-number-of-set-bits-in-binary-representation-20260221-204525.ts) |
 | 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | Easy | Bit Manipulation | [Code](easy/0868-binary-gap/binary-gap.ts) |
