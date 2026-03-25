@@ -26,7 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium | Array | [Code](2976-minimum-cost-to-convert-string-i/minimum-cost-to-convert-string-i.ts) |
 | 2943 | [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | Medium | Array | [Code](2943-maximize-area-of-square-hole-in-grid/maximize-area-of-square-hole-in-grid.ts) |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy | Array | [Code](1984-minimum-difference-between-highest-and-lowest-of-k-scores/minimum-difference-between-highest-and-lowest-of-k-scores.ts) |
-| 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | Array | [Code](1975-maximum-matrix-sum/maximum-matrix-sum.py) |
+| 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | Array | [Code](1975-maximum-matrix-sum/maximum-matrix-sum.ts) |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | Array | [Code](medium/1877-minimize-maximum-pair-sum-in-array/minimize-maximum-pair-sum-in-array.ts) |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium | String | [Code](medium/1653-minimum-deletions-to-make-string-balanced/minimum-deletions-to-make-string-balanced.ts) |
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Hard | Array | [Code](hard/1458-max-dot-product-of-two-subsequences/max-dot-product-of-two-subsequences.ts) |
@@ -54,7 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array | [Code](hard/0085-maximal-rectangle/maximal-rectangle.ts) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | [Code](easy/0066-plus-one/plus-one.ts) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](easy/0001-two-sum/two-sum.cs) |
-| 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | Array | [Code](hard/3721-longest-balanced-subarray-ii/longest-balanced-subarray-ii-20260211-225543.py) |
+| 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | Array | [Code](3721-longest-balanced-subarray-ii/longest-balanced-subarray-ii.py) |
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/) | Medium | Hash Table | [Code](medium/3713-longest-balanced-substring-i/longest-balanced-substring-i-20260212-210221.ts) |
 | 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii/) | Medium | Hash Table | [Code](3714-longest-balanced-substring-ii/longest-balanced-substring-ii.ts) |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | Dynamic Programming | [Code](medium/0799-champagne-tower/champagne-tower-20260214-225032.ts) |
