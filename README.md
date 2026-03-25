@@ -43,7 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | Medium | Hash Table | [Code](medium/0865-smallest-subtree-with-all-the-deepest-nodes/smallest-subtree-with-all-the-deepest-nodes.ts) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | Array | [Code](easy/0744-find-smallest-letter-greater-than-target/find-smallest-letter-greater-than-target.ts) |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium | String | [Code](0712-minimum-ascii-delete-sum-for-two-strings/minimum-ascii-delete-sum-for-two-strings.ts) |
-| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | Tree | [Code](easy/0404-sum-of-left-leaves/sum-of-left-leaves.ts) |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | Tree | [Code](0404-sum-of-left-leaves/sum-of-left-leaves.ts) |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | Stack | [Code](easy/0145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.ts) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | Stack | [Code](easy/0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.ts) |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | Tree | [Code](easy/0111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.ts) |
