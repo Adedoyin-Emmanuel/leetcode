@@ -95,3 +95,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Easy | Array | [Code](1356-sort-integers-by-the-number-of-1-bits/sort-integers-by-the-number-of-1-bits.py) |
 | 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | Hard | String | [Code](0761-special-binary-string/special-binary-string.ts) |
 | 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | Array | [Code](medium/3546-equal-sum-grid-partition-i/equal-sum-grid-partition-i.ts) |
+| 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | Medium | Array | [Code](medium/1594-maximum-non-negative-product-in-a-matrix/maximum-non-negative-product-in-a-matrix.ts) |
