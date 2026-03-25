@@ -51,7 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree | [Code](easy/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree-20260126-085919.ts) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree | [Code](easy/0100-same-tree/same-tree-20260201-060035.ts) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Stack | [Code](easy/0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal-20260110-165343.ts) |
-| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array | [Code](hard/0085-maximal-rectangle/maximal-rectangle.ts) |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array | [Code](hard/0085-maximal-rectangle/maximal-rectangle-20260126-104914.ts) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array | [Code](easy/0066-plus-one/plus-one.ts) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | [Code](0001-two-sum/two-sum.cs) |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | Hard | Array | [Code](3721-longest-balanced-subarray-ii/longest-balanced-subarray-ii.py) |
