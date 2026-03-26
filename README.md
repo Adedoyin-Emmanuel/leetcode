@@ -97,3 +97,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i/) | Medium | Array | [Code](medium/3546-equal-sum-grid-partition-i/equal-sum-grid-partition-i.ts) |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | Medium | Array | [Code](medium/1594-maximum-non-negative-product-in-a-matrix/maximum-non-negative-product-in-a-matrix.ts) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | Divide and Conquer | [Code](easy/0190-reverse-bits/reverse-bits.ts) |
+| 3548 | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | Hard | Array | [Code](hard/3548-equal-sum-grid-partition-ii/equal-sum-grid-partition-ii.ts) |
