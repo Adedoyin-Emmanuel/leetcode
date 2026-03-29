@@ -99,3 +99,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | Divide and Conquer | [Code](easy/0190-reverse-bits/reverse-bits.ts) |
 | 3548 | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | Hard | Array | [Code](hard/3548-equal-sum-grid-partition-ii/equal-sum-grid-partition-ii.ts) |
 | 2573 | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/) | Hard | Array | [Code](hard/2573-find-the-string-with-lcp/find-the-string-with-lcp.ts) |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | Easy | String | [Code](easy/2839-check-if-strings-can-be-made-equal-with-operations-i/check-if-strings-can-be-made-equal-with-operations-i.ts) |
