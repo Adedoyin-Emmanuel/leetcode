@@ -103,3 +103,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3474 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | Hard | String | [Code](hard/3474-lexicographically-smallest-generated-string/lexicographically-smallest-generated-string.ts) |
 | 3418 | [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | Medium | Array | [Code](medium/3418-maximum-amount-of-money-robot-can-earn/maximum-amount-of-money-robot-can-earn.ts) |
 | 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | Medium | String | [Code](medium/2075-decode-the-slanted-ciphertext/decode-the-slanted-ciphertext.ts) |
+| 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy | String | [Code](easy/0657-robot-return-to-origin/robot-return-to-origin.py) |
