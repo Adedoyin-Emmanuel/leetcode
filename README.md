@@ -104,3 +104,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3418 | [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | Medium | Array | [Code](medium/3418-maximum-amount-of-money-robot-can-earn/maximum-amount-of-money-robot-can-earn.ts) |
 | 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | Medium | String | [Code](medium/2075-decode-the-slanted-ciphertext/decode-the-slanted-ciphertext.ts) |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy | String | [Code](easy/0657-robot-return-to-origin/robot-return-to-origin-20260405-225330.py) |
+| 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | Medium | Design | [Code](medium/2069-walking-robot-simulation-ii/walking-robot-simulation-ii.ts) |
