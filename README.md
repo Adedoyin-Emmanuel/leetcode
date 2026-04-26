@@ -116,3 +116,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | Easy | Array | [Code](easy/2078-two-furthest-houses-with-different-colors/two-furthest-houses-with-different-colors-20260420-235122.ts) |
 | 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | Medium | Array | [Code](medium/2452-words-within-two-edits-of-dictionary/words-within-two-edits-of-dictionary.ts) |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | Easy | String | [Code](easy/2833-furthest-point-from-origin/furthest-point-from-origin.ts) |
+| 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | Medium | Array | [Code](medium/1559-detect-cycles-in-2d-grid/detect-cycles-in-2d-grid.py) |
