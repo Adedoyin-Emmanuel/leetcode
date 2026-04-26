@@ -117,3 +117,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | Medium | Array | [Code](medium/2452-words-within-two-edits-of-dictionary/words-within-two-edits-of-dictionary.ts) |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | Easy | String | [Code](easy/2833-furthest-point-from-origin/furthest-point-from-origin.ts) |
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | Medium | Array | [Code](medium/1559-detect-cycles-in-2d-grid/detect-cycles-in-2d-grid.py) |
+| 3464 | [Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | Hard | Array | [Code](hard/3464-maximize-the-distance-between-points-on-a-square/maximize-the-distance-between-points-on-a-square.ts) |
