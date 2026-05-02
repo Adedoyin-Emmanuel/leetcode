@@ -121,3 +121,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | Medium | Array | [Code](medium/1391-check-if-there-is-a-valid-path-in-a-grid/check-if-there-is-a-valid-path-in-a-grid-20260427-232610.py) |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium | Array | [Code](medium/2033-minimum-operations-to-make-a-uni-value-grid/minimum-operations-to-make-a-uni-value-grid-20260428-231843.py) |
 | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | Medium | Array | [Code](medium/0396-rotate-function/rotate-function.ts) |
+| 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | Medium | Math | [Code](medium/0788-rotated-digits/rotated-digits.ts) |
