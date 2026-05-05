@@ -122,3 +122,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium | Array | [Code](medium/2033-minimum-operations-to-make-a-uni-value-grid/minimum-operations-to-make-a-uni-value-grid-20260428-231843.py) |
 | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | Medium | Array | [Code](medium/0396-rotate-function/rotate-function.ts) |
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | Medium | Math | [Code](medium/0788-rotated-digits/rotated-digits.ts) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | Linked List | [Code](medium/0061-rotate-list/rotate-list.ts) |
