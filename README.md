@@ -123,3 +123,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | Medium | Array | [Code](medium/0396-rotate-function/rotate-function.ts) |
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | Medium | Math | [Code](medium/0788-rotated-digits/rotated-digits.ts) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | Linked List | [Code](medium/0061-rotate-list/rotate-list.ts) |
+| 3629 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium | Array | [Code](medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/minimum-jumps-to-reach-end-via-prime-teleportation.ts) |
