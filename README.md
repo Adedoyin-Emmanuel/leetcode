@@ -124,3 +124,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | Medium | Math | [Code](medium/0788-rotated-digits/rotated-digits.ts) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | Linked List | [Code](medium/0061-rotate-list/rotate-list.ts) |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium | Array | [Code](medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/minimum-jumps-to-reach-end-via-prime-teleportation.ts) |
+| 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | Medium | Array | [Code](medium/1914-cyclically-rotating-a-grid/cyclically-rotating-a-grid.ts) |
