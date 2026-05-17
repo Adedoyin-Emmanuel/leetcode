@@ -130,3 +130,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | Medium | Array | [Code](medium/1674-minimum-moves-to-make-array-complementary/minimum-moves-to-make-array-complementary.ts) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Array | [Code](medium/0153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.ts) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | Array | [Code](hard/0154-find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.ts) |
+| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | Array | [Code](medium/1306-jump-game-iii/jump-game-iii.ts) |
