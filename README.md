@@ -132,4 +132,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | Array | [Code](hard/0154-find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.ts) |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | Array | [Code](medium/1306-jump-game-iii/jump-game-iii.ts) |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard | Array | [Code](hard/1345-jump-game-iv/jump-game-iv.ts) |
-| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy | Array | [Code](easy/2540-minimum-common-value/minimum-common-value.ts) |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy | Array | [Code](easy/2540-minimum-common-value/minimum-common-value-20260519-082935.ts) |
