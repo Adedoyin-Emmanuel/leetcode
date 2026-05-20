@@ -134,3 +134,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard | Array | [Code](hard/1345-jump-game-iv/jump-game-iv.ts) |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy | Array | [Code](easy/2540-minimum-common-value/minimum-common-value-20260519-082935.ts) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | Array | [Code](easy/0349-intersection-of-two-arrays/intersection-of-two-arrays.ts) |
+| 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium | Array | [Code](medium/2657-find-the-prefix-common-array-of-two-arrays/find-the-prefix-common-array-of-two-arrays.ts) |
