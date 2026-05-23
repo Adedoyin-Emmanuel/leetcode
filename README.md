@@ -138,3 +138,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Medium | Array | [Code](medium/3043-find-the-length-of-the-longest-common-prefix/find-the-length-of-the-longest-common-prefix-20260521-082106.ts) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array | [Code](easy/0014-longest-common-prefix/longest-common-prefix.ts) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Array | [Code](medium/0033-search-in-rotated-sorted-array/search-in-rotated-sorted-array.ts) |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | Array | [Code](easy/1752-check-if-array-is-sorted-and-rotated/check-if-array-is-sorted-and-rotated.ts) |
