@@ -141,3 +141,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | Array | [Code](easy/1752-check-if-array-is-sorted-and-rotated/check-if-array-is-sorted-and-rotated.ts) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard | Array | [Code](hard/1340-jump-game-v/jump-game-v.ts) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium | String | [Code](medium/1871-jump-game-vii/jump-game-vii.ts) |
+| 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | Easy | Hash Table | [Code](easy/3120-count-the-number-of-special-characters-i/count-the-number-of-special-characters-i.ts) |
