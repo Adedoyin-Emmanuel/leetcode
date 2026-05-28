@@ -143,3 +143,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium | String | [Code](medium/1871-jump-game-vii/jump-game-vii.ts) |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | Easy | Hash Table | [Code](easy/3120-count-the-number-of-special-characters-i/count-the-number-of-special-characters-i.ts) |
 | 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | Medium | Hash Table | [Code](medium/3121-count-the-number-of-special-characters-ii/count-the-number-of-special-characters-ii.ts) |
+| 3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | Hard | Array | [Code](hard/3093-longest-common-suffix-queries/longest-common-suffix-queries.ts) |
