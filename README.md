@@ -148,3 +148,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3161 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) | Hard | Array | [Code](hard/3161-block-placement-queries/block-placement-queries.ts) |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | Medium | Array | [Code](medium/2126-destroying-asteroids/destroying-asteroids.ts) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy | Array | [Code](easy/2144-minimum-cost-of-buying-candies-with-discount/minimum-cost-of-buying-candies-with-discount.ts) |
+| 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | Easy | Array | [Code](easy/2784-check-if-array-is-good/check-if-array-is-good.ts) |
