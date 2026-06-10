@@ -156,3 +156,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | Array | [Code](easy/2574-left-and-right-sum-differences/left-and-right-sum-differences.ts) |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | Array | [Code](medium/2161-partition-array-according-to-given-pivot/partition-array-according-to-given-pivot.py) |
 | 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | Medium | Array | [Code](medium/3689-maximum-total-subarray-value-i/maximum-total-subarray-value-i.ts) |
+| 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | Hard | Array | [Code](hard/3691-maximum-total-subarray-value-ii/maximum-total-subarray-value-ii.ts) |
