@@ -158,3 +158,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | Medium | Array | [Code](medium/3689-maximum-total-subarray-value-i/maximum-total-subarray-value-i.ts) |
 | 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | Hard | Array | [Code](hard/3691-maximum-total-subarray-value-ii/maximum-total-subarray-value-ii.ts) |
 | 3558 | [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | Medium | Math | [Code](medium/3558-number-of-ways-to-assign-edge-weights-i/number-of-ways-to-assign-edge-weights-i.ts) |
+| 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Easy | Array | [Code](easy/3838-weighted-word-mapping/weighted-word-mapping.ts) |
