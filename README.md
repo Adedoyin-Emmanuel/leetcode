@@ -166,3 +166,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Medium | Math | [Code](medium/1344-angle-between-hands-of-a-clock/angle-between-hands-of-a-clock.ts) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | Array | [Code](easy/1732-find-the-highest-altitude/find-the-highest-altitude.ts) |
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | Hard | Array | [Code](hard/1840-maximum-building-height/maximum-building-height.ts) |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium | Array | [Code](medium/1833-maximum-ice-cream-bars/maximum-ice-cream-bars.ts) |
