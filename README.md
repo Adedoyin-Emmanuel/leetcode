@@ -167,3 +167,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | Array | [Code](easy/1732-find-the-highest-altitude/find-the-highest-altitude.ts) |
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | Hard | Array | [Code](hard/1840-maximum-building-height/maximum-building-height.ts) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium | Array | [Code](medium/1833-maximum-ice-cream-bars/maximum-ice-cream-bars.ts) |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | Hash Table | [Code](easy/1189-maximum-number-of-balloons/maximum-number-of-balloons.ts) |
