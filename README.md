@@ -168,3 +168,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | Hard | Array | [Code](hard/1840-maximum-building-height/maximum-building-height.ts) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium | Array | [Code](medium/1833-maximum-ice-cream-bars/maximum-ice-cream-bars.ts) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | Hash Table | [Code](easy/1189-maximum-number-of-balloons/maximum-number-of-balloons.ts) |
+| 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | Hard | Dynamic Programming | [Code](hard/3699-number-of-zigzag-arrays-i/number-of-zigzag-arrays-i.ts) |
