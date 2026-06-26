@@ -169,3 +169,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium | Array | [Code](medium/1833-maximum-ice-cream-bars/maximum-ice-cream-bars.ts) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | Hash Table | [Code](easy/1189-maximum-number-of-balloons/maximum-number-of-balloons.ts) |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | Hard | Dynamic Programming | [Code](hard/3699-number-of-zigzag-arrays-i/number-of-zigzag-arrays-i.ts) |
+| 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | Hard | Array | [Code](hard/3739-count-subarrays-with-majority-element-ii/count-subarrays-with-majority-element-ii.ts) |
