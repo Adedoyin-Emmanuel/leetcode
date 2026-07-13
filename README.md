@@ -185,3 +185,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | Hard | Array | [Code](hard/3534-path-existence-queries-in-a-graph-ii/path-existence-queries-in-a-graph-ii.ts) |
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium | Depth-First Search | [Code](medium/2685-count-the-number-of-complete-components/count-the-number-of-complete-components.py) |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | Array | [Code](easy/1331-rank-transform-of-an-array/rank-transform-of-an-array.py) |
+| 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium | Enumeration | [Code](medium/1291-sequential-digits/sequential-digits.ts) |
