@@ -187,3 +187,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | Array | [Code](easy/1331-rank-transform-of-an-array/rank-transform-of-an-array.py) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium | Enumeration | [Code](medium/1291-sequential-digits/sequential-digits.ts) |
 | 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Hard | Array | [Code](hard/3336-find-the-number-of-subsequences-with-equal-gcd/find-the-number-of-subsequences-with-equal-gcd.ts) |
+| 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | Array | [Code](medium/3867-sum-of-gcd-of-formed-pairs/sum-of-gcd-of-formed-pairs.ts) |
