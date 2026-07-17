@@ -189,3 +189,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Hard | Array | [Code](hard/3336-find-the-number-of-subsequences-with-equal-gcd/find-the-number-of-subsequences-with-equal-gcd.ts) |
 | 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | Array | [Code](medium/3867-sum-of-gcd-of-formed-pairs/sum-of-gcd-of-formed-pairs.ts) |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | Math | [Code](easy/3658-gcd-of-odd-and-even-sums/gcd-of-odd-and-even-sums.ts) |
+| 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Hard | Array | [Code](hard/3312-sorted-gcd-pair-queries/sorted-gcd-pair-queries.ts) |
