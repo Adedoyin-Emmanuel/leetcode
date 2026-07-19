@@ -191,3 +191,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | Math | [Code](easy/3658-gcd-of-odd-and-even-sums/gcd-of-odd-and-even-sums.ts) |
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Hard | Array | [Code](hard/3312-sorted-gcd-pair-queries/sorted-gcd-pair-queries.ts) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | Array | [Code](easy/1979-find-greatest-common-divisor-of-array/find-greatest-common-divisor-of-array.ts) |
+| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Medium | String | [Code](medium/1081-smallest-subsequence-of-distinct-characters/smallest-subsequence-of-distinct-characters.ts) |
