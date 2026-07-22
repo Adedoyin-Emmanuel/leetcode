@@ -193,3 +193,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | Array | [Code](easy/1979-find-greatest-common-divisor-of-array/find-greatest-common-divisor-of-array.ts) |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Medium | String | [Code](medium/1081-smallest-subsequence-of-distinct-characters/smallest-subsequence-of-distinct-characters.ts) |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy | Array | [Code](easy/1260-shift-2d-grid/shift-2d-grid.py) |
+| 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | Hard | Array | [Code](hard/3501-maximize-active-section-with-trade-ii/maximize-active-section-with-trade-ii.ts) |
