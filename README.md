@@ -195,3 +195,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy | Array | [Code](easy/1260-shift-2d-grid/shift-2d-grid.py) |
 | 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | Hard | Array | [Code](hard/3501-maximize-active-section-with-trade-ii/maximize-active-section-with-trade-ii.ts) |
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium | Array | [Code](medium/3514-number-of-unique-xor-triplets-ii/number-of-unique-xor-triplets-ii.ts) |
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | Math | [Code](easy/3536-maximum-product-of-two-digits/maximum-product-of-two-digits.ts) |
