@@ -201,3 +201,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | Hard | Hash Table | [Code](hard/3518-smallest-palindromic-rearrangement-ii/smallest-palindromic-rearrangement-ii.ts) |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | Math | [Code](easy/3014-minimum-number-of-pushes-to-type-word-i/minimum-number-of-pushes-to-type-word-i.ts) |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Medium | Array | [Code](medium/0486-predict-the-winner/predict-the-winner.py) |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | Array | [Code](easy/0628-maximum-product-of-three-numbers/maximum-product-of-three-numbers.ts) |
