@@ -200,3 +200,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | String | [Code](medium/3517-smallest-palindromic-rearrangement-i/smallest-palindromic-rearrangement-i.ts) |
 | 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | Hard | Hash Table | [Code](hard/3518-smallest-palindromic-rearrangement-ii/smallest-palindromic-rearrangement-ii.ts) |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | Math | [Code](easy/3014-minimum-number-of-pushes-to-type-word-i/minimum-number-of-pushes-to-type-word-i.ts) |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Medium | Array | [Code](medium/0486-predict-the-winner/predict-the-winner.py) |
