@@ -202,3 +202,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | Math | [Code](easy/3014-minimum-number-of-pushes-to-type-word-i/minimum-number-of-pushes-to-type-word-i.ts) |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Medium | Array | [Code](medium/0486-predict-the-winner/predict-the-winner.py) |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | Array | [Code](easy/0628-maximum-product-of-three-numbers/maximum-product-of-three-numbers.ts) |
+| 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | Hash Table | [Code](medium/3016-minimum-number-of-pushes-to-type-word-ii/minimum-number-of-pushes-to-type-word-ii.ts) |
