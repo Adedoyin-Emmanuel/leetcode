@@ -204,3 +204,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | Array | [Code](easy/0628-maximum-product-of-three-numbers/maximum-product-of-three-numbers.ts) |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | Hash Table | [Code](medium/3016-minimum-number-of-pushes-to-type-word-ii/minimum-number-of-pushes-to-type-word-ii.ts) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Medium | Array | [Code](medium/0877-stone-game/stone-game.ts) |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard | Array | [Code](hard/1406-stone-game-iii/stone-game-iii.ts) |
