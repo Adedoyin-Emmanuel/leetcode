@@ -205,3 +205,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | Hash Table | [Code](medium/3016-minimum-number-of-pushes-to-type-word-ii/minimum-number-of-pushes-to-type-word-ii.ts) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Medium | Array | [Code](medium/0877-stone-game/stone-game.ts) |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard | Array | [Code](hard/1406-stone-game-iii/stone-game-iii.ts) |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | Array | [Code](easy/3731-find-missing-elements/find-missing-elements.ts) |
