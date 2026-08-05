@@ -206,3 +206,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Medium | Array | [Code](medium/0877-stone-game/stone-game.ts) |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard | Array | [Code](hard/1406-stone-game-iii/stone-game-iii.ts) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | Array | [Code](easy/3731-find-missing-elements/find-missing-elements-20260804-133729.ts) |
+| 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | Medium | Depth-First Search | [Code](medium/3310-remove-methods-from-project/remove-methods-from-project.ts) |
