@@ -208,3 +208,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | Array | [Code](easy/3731-find-missing-elements/find-missing-elements-20260804-133729.ts) |
 | 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | Medium | Depth-First Search | [Code](medium/3310-remove-methods-from-project/remove-methods-from-project.ts) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | Math | [Code](easy/3345-smallest-divisible-digit-product-i/smallest-divisible-digit-product-i.ts) |
+| 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | Hard | Math | [Code](hard/3348-smallest-divisible-digit-product-ii/smallest-divisible-digit-product-ii.ts) |
