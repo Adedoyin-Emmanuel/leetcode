@@ -218,3 +218,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | Array | [Code](medium/3702-longest-subsequence-with-non-zero-bitwise-xor/longest-subsequence-with-non-zero-bitwise-xor.ts) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | Medium | Array | [Code](medium/2029-stone-game-ix/stone-game-ix.ts) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | Array | [Code](easy/3069-distribute-elements-into-two-arrays-i/distribute-elements-into-two-arrays-i.ts) |
+| 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Medium | Math | [Code](medium/1927-sum-game/sum-game.ts) |
