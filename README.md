@@ -220,3 +220,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | Array | [Code](easy/3069-distribute-elements-into-two-arrays-i/distribute-elements-into-two-arrays-i.ts) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | Medium | Math | [Code](medium/1927-sum-game/sum-game.ts) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | Array | [Code](easy/3718-smallest-missing-multiple-of-k/smallest-missing-multiple-of-k.ts) |
+| 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | String | [Code](medium/2904-shortest-and-lexicographically-smallest-beautiful-string/shortest-and-lexicographically-smallest-beautiful-string.ts) |
