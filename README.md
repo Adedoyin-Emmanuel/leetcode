@@ -231,3 +231,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | Array | [Code](easy/3903-smallest-stable-index-i/smallest-stable-index-i.ts) |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard | String | [Code](hard/0115-distinct-subsequences/distinct-subsequences.ts) |
 | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | String | [Code](hard/0940-distinct-subsequences-ii/distinct-subsequences-ii.ts) |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy | Math | [Code](easy/3870-count-commas-in-range/count-commas-in-range.ts) |
