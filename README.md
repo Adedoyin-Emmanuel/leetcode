@@ -234,3 +234,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy | Math | [Code](easy/3870-count-commas-in-range/count-commas-in-range.ts) |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | Math | [Code](medium/3871-count-commas-in-range-ii/count-commas-in-range-ii.ts) |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | Tree | [Code](medium/2265-count-nodes-equal-to-average-of-subtree/count-nodes-equal-to-average-of-subtree-20260911-015019.ts) |
+| 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | Array | [Code](easy/3483-unique-3-digit-even-numbers/unique-3-digit-even-numbers.ts) |
