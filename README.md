@@ -236,3 +236,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | Tree | [Code](medium/2265-count-nodes-equal-to-average-of-subtree/count-nodes-equal-to-average-of-subtree-20260911-015019.ts) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | Array | [Code](easy/3483-unique-3-digit-even-numbers/unique-3-digit-even-numbers.ts) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Hard | Array | [Code](hard/3414-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.ts) |
+| 835 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | Array | [Code](medium/0835-image-overlap/image-overlap.ts) |
