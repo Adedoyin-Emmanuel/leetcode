@@ -238,3 +238,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Hard | Array | [Code](hard/3414-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.ts) |
 | 835 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | Array | [Code](medium/0835-image-overlap/image-overlap.ts) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Two Pointers | [Code](hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/maximum-number-of-non-overlapping-palindrome-substrings.ts) |
+| 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Easy | Math | [Code](easy/0836-rectangle-overlap/rectangle-overlap.ts) |
