@@ -239,3 +239,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 835 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | Array | [Code](medium/0835-image-overlap/image-overlap.ts) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Two Pointers | [Code](hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/maximum-number-of-non-overlapping-palindrome-substrings.ts) |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Easy | Math | [Code](easy/0836-rectangle-overlap/rectangle-overlap.ts) |
+| 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | Math | [Code](medium/1621-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.ts) |
