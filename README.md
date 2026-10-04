@@ -17,3 +17,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | String | [Code](easy/0020-valid-parentheses/valid-parentheses.ts) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | Array | [Code](medium/1658-minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.ts) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | String | [Code](medium/0022-generate-parentheses/generate-parentheses.ts) |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | String | [Code](medium/0678-valid-parenthesis-string/valid-parenthesis-string.py) |
