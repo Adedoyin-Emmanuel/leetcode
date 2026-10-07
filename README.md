@@ -20,3 +20,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | String | [Code](medium/0678-valid-parenthesis-string/valid-parenthesis-string.py) |
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | String | [Code](medium/0856-score-of-parentheses/score-of-parentheses.ts) |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | String | [Code](medium/0921-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.py) |
+| 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | String | [Code](hard/0301-remove-invalid-parentheses/remove-invalid-parentheses.ts) |
