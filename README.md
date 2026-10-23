@@ -36,3 +36,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | Array | [Code](hard/3886-sum-of-sortable-integers/sum-of-sortable-integers.ts) |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | String | [Code](medium/3863-minimum-operations-to-sort-a-string/minimum-operations-to-sort-a-string.ts) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | Array | [Code](medium/3942-minimum-operations-to-sort-a-permutation/minimum-operations-to-sort-a-permutation.ts) |
+| 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | Array | [Code](medium/3644-maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.ts) |
