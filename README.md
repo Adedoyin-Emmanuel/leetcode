@@ -40,3 +40,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | Math | [Code](easy/2409-count-days-spent-together/count-days-spent-together.ts) |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | Array | [Code](medium/1254-number-of-closed-islands/number-of-closed-islands.py) |
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | Array | [Code](medium/3619-count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.ts) |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy |  | [Code](easy/3963-create-grid-with-exactly-one-path/create-grid-with-exactly-one-path.ts) |
