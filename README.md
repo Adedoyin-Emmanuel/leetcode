@@ -41,3 +41,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | Array | [Code](medium/1254-number-of-closed-islands/number-of-closed-islands.py) |
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | Array | [Code](medium/3619-count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.ts) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy |  | [Code](easy/3963-create-grid-with-exactly-one-path/create-grid-with-exactly-one-path.ts) |
+| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Hard | Array | [Code](hard/3841-palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.ts) |
