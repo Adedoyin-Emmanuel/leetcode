@@ -43,3 +43,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy |  | [Code](easy/3963-create-grid-with-exactly-one-path/create-grid-with-exactly-one-path.ts) |
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Hard | Array | [Code](hard/3841-palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.ts) |
 | 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | Medium | Array | [Code](medium/3665-twisted-mirror-path-count/twisted-mirror-path-count.ts) |
+| 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | Array | [Code](medium/0462-minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.ts) |
