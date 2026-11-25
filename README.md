@@ -57,3 +57,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | String | [Code](easy/2124-check-if-all-as-appears-before-all-bs/check-if-all-as-appears-before-all-bs.ts) |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | Array | [Code](medium/1352-product-of-the-last-k-numbers/product-of-the-last-k-numbers.ts) |
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | Array | [Code](easy/3411-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.ts) |
+| 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | Hard | Array | [Code](hard/3934-smallest-unique-subarray/smallest-unique-subarray.ts) |
