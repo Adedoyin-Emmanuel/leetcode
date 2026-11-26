@@ -58,3 +58,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | Array | [Code](medium/1352-product-of-the-last-k-numbers/product-of-the-last-k-numbers.ts) |
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | Array | [Code](easy/3411-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.ts) |
 | 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | Hard | Array | [Code](hard/3934-smallest-unique-subarray/smallest-unique-subarray.ts) |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | Easy | Math | [Code](easy/3360-stone-removal-game/stone-removal-game.ts) |
