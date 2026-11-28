@@ -60,3 +60,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | Hard | Array | [Code](hard/3934-smallest-unique-subarray/smallest-unique-subarray.ts) |
 | 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | Easy | Math | [Code](easy/3360-stone-removal-game/stone-removal-game.ts) |
 | 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | Medium | Array | [Code](medium/3946-maximum-number-of-items-from-sale-i/maximum-number-of-items-from-sale-i.ts) |
+| 3947 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | Medium | Array | [Code](medium/3947-maximum-number-of-items-from-sale-ii/maximum-number-of-items-from-sale-ii.ts) |
